@@ -1,1 +1,57 @@
 PRUEBA SEMINARIO
+
+[
+  {
+    "id": 1,
+    "codigo": "PLT-001",
+    "nombre": "Lasaña de carne",
+    "descripcion": "Lasaña al horno con salsa boloñesa y queso gratinado",
+    "categoria": "PRINCIPAL",
+    "precio": "7.50",
+    "disponible": true,
+    "tiempo_preparacion_min": 20,
+    "calorias": 850,
+    "es_vegetariano": false,
+    "nivel_picante": 1
+  },
+  {
+    "id": 2,
+    "codigo": "PLT-002",
+    "nombre": "Ensalada César",
+    "descripcion": "Lechuga, crotones, pollo y aderezo césar",
+    "categoria": "ENTRADA",
+    "precio": "4.00",
+    "disponible": true,
+    "tiempo_preparacion_min": 10,
+    "calorias": 300,
+    "es_vegetariano": false,
+    "nivel_picante": 0
+  }
+]
+
+{
+  "codigo": "PLT-003",
+  "nombre": "Hamburguesa vegetariana",
+  "descripcion": "Hamburguesa de garbanzos con vegetales frescos",
+  "categoria": "PRINCIPAL",
+  "precio": "6.50",
+  "disponible": true,
+  "tiempo_preparacion_min": 15,
+  "calorias": 600,
+  "es_vegetariano": true,
+  "nivel_picante": 2
+}
+
+{
+  "id": 3,
+  "codigo": "PLT-003",
+  "nombre": "Hamburguesa vegetariana",
+  "descripcion": "Hamburguesa de garbanzos con vegetales frescos",
+  "categoria": "PRINCIPAL",
+  "precio": "6.50",
+  "disponible": true,
+  "tiempo_preparacion_min": 15,
+  "calorias": 600,
+  "es_vegetariano": true,
+  "nivel_picante": 2
+}
