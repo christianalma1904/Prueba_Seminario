@@ -22,5 +22,5 @@ router = DefaultRouter()
 router.register(r"platos", PlatoViewSet, basename="plato")
 
 urlpatterns = [
-    path("api/", include('router.urls')),
+    path("api/", include(router.urls)),
 ]
